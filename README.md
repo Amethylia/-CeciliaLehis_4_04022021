@@ -1,1 +1,3 @@
-# -CeciliaLehis_4_04022021
+Projet 4 - Optimisez un site web existant
+
+Parcours développeur web chez OpenClassRooms
