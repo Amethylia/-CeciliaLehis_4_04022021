@@ -790,6 +790,17 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.btn-dark-slate-blue {
+    background-color: #364577;
+    color: #FFFFFF!important;
+}
+
+.btn-dark-slate-blue:hover {
+    background-color: #6C81C4!important;
+    color: #FFFFFF!important;
+    cursor: pointer;
+}
+
 .ltc-white {
     color: #FFFFFF!important;
 }
